@@ -42,7 +42,7 @@ Is there any way to optimize battery life or identify what is consuming the most
 My laptop's battery percentage is not updating and appears to not be holding a charge, what could be happening?;Battery;survey
 My laptop discharges and charges very quickly. What could be causing this behavior?;Battery;survey
 My machine is overheating while charging.;Battery;survey
-The battery life on my laptop seems to be decreasing rapidly. How can I use the Lenovo Diagnostics Evolution to assess and improve the health of my battery?;Battery;survey
+The battery life on my laptop seems to be decreasing rapidly. How can I use the LDE to assess and improve the health of my battery?;Battery;survey
 Why does my notebook only turns on when on cable?;Battery;survey
 My battery is experiencing unreasonable high battery degradation;Battery;survey
 My laptop drains as soon as I get a low battery message;Battery;survey
@@ -66,7 +66,7 @@ Can overheating and strange noises from the cooler pose any risk to the function
 My computer is running very slow and applications are taking a long time to load. What might be causing this CPU performance issue?;CPU/FAN/Heatsink;survey
 Occasionally, when performing more demanding tasks like gaming, my computer freezes. What could be causing this?;CPU/FAN/Heatsink;survey
 The CPU is getting random 99% usage peaks.;CPU/FAN/Heatsink;survey
-I've noticed a significant drop in my laptop's performance. How can I utilize Lenovo Diagnostics Evolution to check and address potential problems with the CPU?;CPU/FAN/Heatsink;survey
+I've noticed a significant drop in my laptop's performance. How can I utilize LDE to check and address potential problems with the CPU?;CPU/FAN/Heatsink;survey
 Why is my computer not turning on?;CPU/FAN/Heatsink;survey
 My laptop is experiencing random crashes under high load;CPU/FAN/Heatsink;survey
 My PC is very slow;CPU/FAN/Heatsink;survey
@@ -88,7 +88,7 @@ The computer does not start consistently, experiencing crashes or random errors 
 I have installed 32 gigabytes of RAM, but only 16 are being used, what could it be?;Memory;survey
 My computer sometimes doesn't turn on, and when it does, it shuts down on its own shortly afterward. What could be the issue?;Memory;survey
 My machine turns on, but the system does not boot.;Memory;survey
-My laptop freezes randomly, especially when I have multiple applications open. How can I use the Lenovo Diagnostics Evolution to troubleshoot and fix memory-related problems?;Memory;survey
+My laptop freezes randomly, especially when I have multiple applications open. How can I use the LDE to troubleshoot and fix memory-related problems?;Memory;survey
 Why is my computer turning on but not booting?;Memory;survey
 Why is my computer showing a blue screen after using it for a while?;Memory;survey
 My computer isn't turning on and it's making beeps;Memory;survey
@@ -181,7 +181,7 @@ The computer may not detect the presence of the Ethernet cable or may not recogn
 My computer is connecting to the wired network, but when I try to connect to WiFi, it cannot connect, can you solve it?;Network;survey
 My internet is always disconnecting and reconnecting, what could be the cause?;Network;survey
 The machine is not detecting wireless networks.;Network;survey
-My laptop keeps losing its internet connection. How can I use Lenovo Diagnostics Evolution to identify and resolve issues with both wired Ethernet and wireless network modules?;Network;survey
+My laptop keeps losing its internet connection. How can I use LDE to identify and resolve issues with both wired Ethernet and wireless network modules?;Network;survey
 Why is my internet not connecting?;Network;survey
 I can't access the internet using this laptop. Note: I can access the Internet fine from any other device.;Network;survey
 I have connection problems;Network;survey
