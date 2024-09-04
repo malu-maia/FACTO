@@ -134,7 +134,7 @@ My disc is too slow, please help to fix it;Storage;survey
 I am experiencing slow access to files and system performance. Could my storage drive (HDD or SSD) be causing this problem?;Storage;survey
 My hard disk is always at 100% disk utilization in Task Manager. What could be the issue?;Storage;survey
 Is taking too long to open a certain storage disk to access files.;Storage;survey
-I suspect there might be issues with data integrity on my laptop. How can I run diagnostics on the storage module using Lenovo Diagnostics Evolution to check for and resolve data corruption problems?;Storage;survey
+I suspect there might be issues with data integrity on my laptop. How can I run diagnostics on the storage module using LDE to check for and resolve data corruption problems?;Storage;survey
 Why is my computer freezing?;Storage;survey
 My pc is stuck in boot menu;Storage;survey
 my machine is restarting;Storage;survey
@@ -158,7 +158,7 @@ The system suddenly shuts down or restarts for no apparent reason;Video Card;sur
 I'm noticing strange graphical artifacts and my computer gets very hot when I play games. Do you know what it could be?;Video Card;survey
 My computer shuts down on its own after a while, and when I check the Windows system events, the following components show errors: Faulting application name: dwm.exe. Faulting module name: dwmcore.dll. What could be causing this?;Video Card;survey
 The video is randomly blacking out.;Video Card;survey
-My laptop is having trouble connecting to an external monitor. Could this be a video card issue? What diagnostics should I run using Lenovo Diagnostics Evolution to troubleshoot external display problems?;Video Card;survey
+My laptop is having trouble connecting to an external monitor. Could this be a video card issue? What diagnostics should I run using LDE to troubleshoot external display problems?;Video Card;survey
 Why is my display black?;Video Card;survey
 My screen freezes and the audio keeps playing;Video Card;survey
 I can't connect to my 5g wifi network;Network;survey
